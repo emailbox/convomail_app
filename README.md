@@ -23,7 +23,7 @@ Source for the Convomail mobile email client. The app works in conjunction with 
 1. Build the project, then download and install the created Android build (.ipk). Takes about 30 seconds. [Use a barcode scanner](https://play.google.com/store/apps/details?id=com.google.zxing.client.android&hl=en) for easy download! 
 
 ## Design and Debugging  
-Try out [debug.phonegap.com](http://debug.phonegap.com) (super buggy and slow, but a useful HTML view) or 
+Try out [debug.phonegap.com](http://debug.phonegap.com) (super buggy and slow, but a useful HTML view) or open up index.html in your browser and use the native developer tools.
 
 ## Server-side   
 By default the basic server is used. If you want to run your own server:  
